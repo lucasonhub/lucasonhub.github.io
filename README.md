@@ -1,5 +1,4 @@
-# lucasonhub.github.io
-<!DOCTYPE html>
+title: Jogo das Desigualdades
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
