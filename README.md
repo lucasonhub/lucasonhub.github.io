@@ -1,4 +1,4 @@
-title: Jogo das Desigualdades
+Jogo das Desigualdades
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
